@@ -22,7 +22,7 @@ alias gp='git pull'
 
 alias humble="source /opt/ros/humble/setup.bash; echo \"ROS2 humble\""
 alias ros2start="humble; source ~/ros2_ws/install/local_setup.bash; echo \"ros2 ws is activated.!!\""
-
+ros2start
 # Gazebo 서버와 클라이언트 프로세스를 모두 종료하는 alias
 alias killgazebo="killall -9 gazebo & killall -9 gzserver  & killall -9 gzclient"
 alias ros_domain="export ROS_DOMAIN_ID=13"
