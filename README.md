@@ -2,9 +2,9 @@
 
 ---
 
-![1](fig/1.png)
+![1](./fig/1.png)
 
-![2](fig/2.png)
+![2](./fig/2.png)
 
 
 ## Bashrc Setting
