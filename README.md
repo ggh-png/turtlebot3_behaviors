@@ -2,9 +2,9 @@
 
 ---
 
-![fir](./img/1.png)
+![fir](./1.png)
 
-![sec](./img/2.png)
+![sec](./2.png)
 
 
 ## Bashrc Setting
