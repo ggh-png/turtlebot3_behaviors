@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="test">
+
+    <executable package_path="turtlebot3_flexbe_behaviors.test_sm" class="testSM" />
+    <tagstring></tagstring>
+    <author>ggh</author>
+    <date>Tue Apr 02 2024</date>
+    <description>
+        test
+    </description>
+
+
+    <!-- Contained Behaviors -->
+
+    <!-- Available Parameters -->
+
+</behavior>

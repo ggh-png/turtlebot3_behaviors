@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="go_to_pose">
+
+    <executable package_path="turtlebot3_flexbe_behaviors.go_to_pose_sm" class="go_to_poseSM" />
+    <tagstring></tagstring>
+    <author>ggh-png</author>
+    <date>Tue Apr 02 2024</date>
+    <description>
+        go to pose
+
+    </description>
+
+
+    <!-- Contained Behaviors -->
+    <contains name="tts" />
+
+    <!-- Available Parameters -->
+
+</behavior>

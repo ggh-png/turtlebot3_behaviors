@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ggh/ros2_ws/install/turtlebot3_fake_node/include/**",
+        "/home/ggh/ros2_ws/install/turtlebot3_msgs/include/**",
+        "/home/ggh/ros2_ws/install/turtlebot3_gazebo/include/**",
+        "/home/ggh/ros2_ws/install/btcpp_ros2_interfaces/include/**",
+        "/home/ggh/ros2_ws/install/behaviortree_ros2/include/**",
+        "/home/ggh/ros2_ws/install/behaviortree_cpp/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ggh/ros2_ws/src/BehaviorTree.CPP/include/**",
+        "/home/ggh/ros2_ws/src/BehaviorTree.ROS2/behaviortree_ros2/include/**",
+        "/home/ggh/ros2_ws/src/behavior_template/behavior_example/include/**",
+        "/home/ggh/ros2_ws/src/behavior_template/bt_sample/include/**",
+        "/home/ggh/ros2_ws/src/my_first_pkg/include/**",
+        "/home/ggh/ros2_ws/src/tb3_behavior_tree/include/**",
+        "/home/ggh/ros2_ws/src/turtlebot3/turtlebot3_node/include/**",
+        "/home/ggh/ros2_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/ggh/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

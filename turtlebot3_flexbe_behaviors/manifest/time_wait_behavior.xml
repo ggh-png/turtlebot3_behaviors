@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="Time_wait_behavior">
+
+    <executable package_path="turtlebot3_flexbe_behaviors.time_wait_behavior_sm" class="Time_wait_behaviorSM" />
+    <tagstring></tagstring>
+    <author>ggh-png</author>
+    <date>Tue Apr 02 2024</date>
+    <description>
+        Time wait behavior 
+    </description>
+
+
+    <!-- Contained Behaviors -->
+
+    <!-- Available Parameters -->
+
+</behavior>

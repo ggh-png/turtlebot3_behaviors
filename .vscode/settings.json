@@ -1,0 +1,36 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ggh/ros2_ws/build/turtlebot3_tts",
+        "/home/ggh/ros2_ws/install/turtlebot3_tts/lib/python3.10/site-packages",
+        "/home/ggh/ros2_ws/build/turtlebot3_teleop",
+        "/home/ggh/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/ggh/ros2_ws/build/turtlebot3_example",
+        "/home/ggh/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/ggh/ros2_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/ggh/ros2_ws/install/turtlebot3_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ggh/ros2_ws/build/turtlebot3_flexbe_states",
+        "/home/ggh/ros2_ws/install/turtlebot3_flexbe_states/lib/python3.10/site-packages",
+        "/home/ggh/ros2_ws/install/turtlebot3_flexbe_behaviors/local/lib/python3.10/dist-packages",
+        "/home/ggh/ros2_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ggh/ros2_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ggh/ros2_ws/build/turtlebot3_tts",
+        "/home/ggh/ros2_ws/install/turtlebot3_tts/lib/python3.10/site-packages",
+        "/home/ggh/ros2_ws/build/turtlebot3_teleop",
+        "/home/ggh/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/ggh/ros2_ws/build/turtlebot3_example",
+        "/home/ggh/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/ggh/ros2_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/ggh/ros2_ws/install/turtlebot3_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ggh/ros2_ws/build/turtlebot3_flexbe_states",
+        "/home/ggh/ros2_ws/install/turtlebot3_flexbe_states/lib/python3.10/site-packages",
+        "/home/ggh/ros2_ws/install/turtlebot3_flexbe_behaviors/local/lib/python3.10/dist-packages",
+        "/home/ggh/ros2_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ggh/ros2_ws/install/btcpp_ros2_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
