@@ -33,8 +33,8 @@ export ROS_DISTRO=humble
 export RCUTILS_COLORIZED_OUTPUT=1
 
 # ==========================  Turtlebot3 setting =========================>
-export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:~/ros2_ws/src/turtlebot3_sim>
-export GAZEBO_WORLD_PATH=${GAZEBO_WORLD_PATH}:~/ros2_ws/src/turtlebot3_sim>
+export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:~/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models
+export GAZEBO_WORLD_PATH=${GAZEBO_WORLD_PATH}:~/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo/worlds
 export TURTLEBOT3_MODEL=waffle
 export ROS_DOMAIN_ID=30 #TURTLEBOT3
 . /usr/share/gazebo/setup.sh
